@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meal Planner</string>
+    <string name="title_activity_display_meal_plan">Week Meal Plan</string>
+    <string name="title_activity_shopping_list">Shopping List</string>
+</resources>
